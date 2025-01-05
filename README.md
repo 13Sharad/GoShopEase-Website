@@ -1,4 +1,4 @@
-# **GoShopEase** ❤️  
+# **GoShopEase-Website** ❤️  
 This is a website built using the **MERN Stack**.
 
 ### **How to Use the Repository**  
@@ -27,4 +27,4 @@ This is a website built using the **MERN Stack**.
 - **Database:** **MongoDB** for data storage.  
 - **Mongoose:** Ensures a stable connection between **Node.js** and **MongoDB**.
 
-Thank you! ❤️❤️  
+Thank you ❤️❤️  
